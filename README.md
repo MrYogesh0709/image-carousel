@@ -1,8 +1,34 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Image carousel (react+vite)
 
-Currently, two official plugins are available:
+Imaeg carousel with react + vite and vanlia css responsive design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Demo
+
+https://image-carousel-react-vite.netlify.app
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install 
+  cd image-carousel
+  npm run dev
+```
+
+## Features
+
+- Vanila CSS
+- Responsive design
+
+
+## 🚀 About Me
+I'm a full stack developer...
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at yogeshvanzara98@gmail.com
+
