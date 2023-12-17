@@ -137,3 +137,13 @@ h1 {
 .img-slider-btn:focus-visible {
   outline: auto;
 }
+
+.github {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+.github:hover {
+  scale: 1.1;
+  transition: scale 0.3s ease-in-out;
+}

@@ -1,6 +1,6 @@
 import { HomeCarousel } from "./Data";
 import ImageSlider from "./ImageSlider";
-
+import github from "./assets/github.svg";
 const App = () => {
   return (
     <div>
@@ -18,6 +18,13 @@ const App = () => {
       >
         <ImageSlider imageUrl={HomeCarousel} />
       </div>
+      <a
+        href="https://github.com/MrYogesh0709/image-carousel"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img src={github} alt="github" className="github" />
+      </a>
     </div>
   );
 };
